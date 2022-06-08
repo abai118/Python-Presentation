@@ -64,7 +64,7 @@ types and easy-to-use control constructs. let us discuss about some of them in t
 
     Packages are a way of structuring Python's module namespace by using "dotted module names". A.B stands for a submodule named B in a package named A. Two different packages like P1 and P2 can both have modules with the same name, let's say A, for example.  
 <br />
-    [![ Packages]()]( https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiKrjLpnzh13Qh2yGVv7FwP94bSoQ3FBDE2Sbc6QNSuQ&s)
+    ![ Packages]()]( https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiKrjLpnzh13Qh2yGVv7FwP94bSoQ3FBDE2Sbc6QNSuQ&s)
 <br />
 <br />
 
