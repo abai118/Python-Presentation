@@ -64,7 +64,7 @@ types and easy-to-use control constructs. let us discuss about some of them in t
 
     Packages are a way of structuring Python's module namespace by using "dotted module names". A.B stands for a submodule named B in a package named A. Two different packages like P1 and P2 can both have modules with the same name, let's say A, for example.  
 <br />
-    ![ Packages]()]( https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiKrjLpnzh13Qh2yGVv7FwP94bSoQ3FBDE2Sbc6QNSuQ&s)
+    <img alt="packages" src="https://python-course.eu/images/python-tutorial/packages_300w.webp" width=80%>
 <br />
 <br />
 
@@ -178,7 +178,8 @@ types and easy-to-use control constructs. let us discuss about some of them in t
 
     When an object of a class is created, the class is said to be instantiated. All the instances share the attributes and the behavior of the class. But the values of those attributes, i.e. the state are unique for each object. A single class may have any number of instances.
 
-    [![ Declaring objects]()]( https://media.geeksforgeeks.org/wp-content/uploads/Blank-Diagram-Page-1-3.png)
+    <img alt="Declaring objects" src="https://media.geeksforgeeks.org/wp-content/uploads/Blank-Diagram-Page-1-3.png" width = 80%>
+
 
         class Dog:
             
